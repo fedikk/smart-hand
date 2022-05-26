@@ -12,7 +12,7 @@ to implement using Arduino and python.
  
 ## Documentation cvzone and servo 
 Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzone documentation and 
-[servo](https://www.arduino.cc/reference/en/libraries/servo/)
+[servo](https://www.arduino.cc/reference/en/libraries/servo/) for servo documentation
 
 ## About
 This repositry __aims__ to provide a thorough guide to building smart hand .
