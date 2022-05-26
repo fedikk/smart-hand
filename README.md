@@ -4,13 +4,19 @@ to implement using Arduino and python.
 
 ## Table of content
  1. [Documentation](#documentation)
- 2. [About](#about)
- 3. [Having a problem?](#having-a-problem-?)
- 4. [Credits](#credits)
- 5. [Feedback](#feedback)
- 6. [License](#license)
+ 2. [components](#components)
+ 3. [About](#about)
+ 4. [Having a problem?](#having-a-problem-?)
+ 5. [Credits](#credits)
+ 6. [Feedback](#feedback)
+ 7. [License](#license)
  
 ## Documentation cvzone and servo 
+Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzone documentation and 
+[servo](https://www.arduino.cc/reference/en/libraries/servo/) for servo documentation
+
+## Components
+![Arduino uno](https://ce8dc832c.cloudimg.io/v7/_cdn_/CA/56/60/00/0/419244_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=24d4ccb4cea9fae38374e652ced53fe25cc43baa)
 Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzone documentation and 
 [servo](https://www.arduino.cc/reference/en/libraries/servo/) for servo documentation
 
