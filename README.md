@@ -23,4 +23,15 @@ resource for starters who want to __understand__ core concepts related smart han
   2. after getting familiar with core concepts, you can check the section [__Code documentation__]()
 for thorough explanation of code implementation for Arduino and python (open cv ).
 
+## Having a problem?
+- Check [__FAQ.md__]() for frequently asked questions
+- Check [__Issues__]() (a couple of issues are discussed there)
+
+- In case you couldn't find anything addressing your problem in this repositry, create an issue!
+
+## Feedback
+All feature requests, bugs, feedback, etc... are welcome. Just create an issue, and we'll look at it as soon as possible 😊
+
+## License
+This project uses the MIT License. Check LICENSE.txt for further details.
 
