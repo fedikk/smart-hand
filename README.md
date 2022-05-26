@@ -28,7 +28,7 @@ Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzon
 3.[beadbord] 
 ![image](https://user-images.githubusercontent.com/98516504/170589636-b87aa69b-e22f-4628-a676-70a14a2fdb3e.png)
 
-4. [servo] (https://www.arduino.cc/reference/en/libraries/servo/)
+4. [servo](https://www.arduino.cc/reference/en/libraries/servo/)
 
 ![image](https://user-images.githubusercontent.com/98516504/170590495-dcbc9f24-8dc4-4bfc-9799-bb8dd5ce546f.png)
 
