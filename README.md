@@ -16,12 +16,15 @@ Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzon
 [servo](https://www.arduino.cc/reference/en/libraries/servo/) for servo documentation
 
 ## Components
-1.[Arduino borad](https://github.com/cvzone/cvzone/blob/master/README.md) 
+1. [Arduino borad](https://github.com/cvzone/cvzone/blob/master/README.md) 
 
 
 ![Arduino uno](https://ce8dc832c.cloudimg.io/v7/_cdn_/CA/56/60/00/0/419244_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=24d4ccb4cea9fae38374e652ced53fe25cc43baa)
 
+2. [Hbridge] (https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 
+
+![image](https://user-images.githubusercontent.com/98516504/170589111-f8dda72f-addf-4324-a147-4df9fde2808d.png)
 
 
 
