@@ -21,7 +21,7 @@ This repositry __aims__ to provide a thorough guide to building smart hand .
 resource for starters who want to __understand__ core concepts related smart hand building .
 
   2. after getting familiar with core concepts, you can check the section [__Code documentation__]()
-for thorough explanation of code implementation for Arduino and python (open cv ).
+for thorough explanation of code implementation for Arduino and python (cvzone).
 
 ## Having a problem?
 - Check [__FAQ.md__]() for frequently asked questions
