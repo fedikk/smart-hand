@@ -11,8 +11,8 @@ to implement using Arduino and python.
  6. [License](#license)
  
 ## Documentation cvzone and servo 
-Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md)/) for cvzone documentation and 
-[servo](https://www.arduino.cc/reference/en/libraries/servo/)/)
+Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzone documentation and 
+[servo](https://www.arduino.cc/reference/en/libraries/servo/)
 
 ## About
 This repositry __aims__ to provide a thorough guide to building smart hand .
