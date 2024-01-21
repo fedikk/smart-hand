@@ -5,13 +5,13 @@ to implement using Arduino and python.
 ## Table of content
  1. [Documentation](#documentation)
  2. [components](#components)
- 3. [About](#about)
- 4. [Having a problem?](#having-a-problem-?)
- 5. [Credits](#credits)
+ 3. [Demo](#demo)
+ 4. [About](#about)
+ 5. [Having a problem?](#having-a-problem-?)
  6. [Feedback](#feedback)
  7. [License](#license)
  
-## Documentation cvzone and servo 
+## Documentation 
 Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzone documentation and 
 [servo](https://www.arduino.cc/reference/en/libraries/servo/) for servo documentation
 
@@ -32,6 +32,8 @@ Check [cvzone](https://github.com/cvzone/cvzone/blob/master/README.md) for cvzon
 
 ![image](https://user-images.githubusercontent.com/98516504/170590495-dcbc9f24-8dc4-4bfc-9799-bb8dd5ce546f.png)
 
+## Demo
+[Demo](https://www.linkedin.com/posts/fedikouki_python-ai-project-activity-6935870588137705472-EcIO?utm_source=share&utm_medium=member_desktop)
 
 
 
@@ -44,7 +46,7 @@ resource for starters who want to __understand__ core concepts related smart han
   2. after getting familiar with core concepts, you can check the section [__Code documentation__]()
 for thorough explanation of code implementation for Arduino and python (cvzone).
 
-## Having a problem?
+## Having a problem ?
 - Check [__FAQ.md__]() for frequently asked questions
 - Check [__Issues__]() (a couple of issues are discussed there)
 
